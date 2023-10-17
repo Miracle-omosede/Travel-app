@@ -1,3 +1,7 @@
+![image](https://github.com/Miracle-omosede/Travel-app/assets/69160847/98f464b1-4843-4231-9fd2-46765af4ed8a)
+## Travel App Website 
+with Built in location and distance calcultator. 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
